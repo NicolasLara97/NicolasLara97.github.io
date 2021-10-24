@@ -6,4 +6,4 @@ root: miprimeraweb
 chapters:
 - file: markdown
 - file: notebooks
-- file: markdow2
+- file: markdown2
